@@ -19,7 +19,7 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 **position:** 0= Kein Stimmrecht, 1= Vorsitz, 2= Mitglied 
 
-**sate:** 1= Bayern, 2= BW, 3= NRW, 4= Berlin, 5= Brandenburg 6=Sachsen, 7=  Sachsen-Anhalt 8= Mecklenburg- Vorpommern, 9= Saarland, 10= Rheinland-Pfalz, 11=Hessen 2= Thüringen 13= Niedersachen, 14= Bremen 15= Hamburg, 16= Schleswig-Holstein
+**state:** 1= Bayern, 2= BW, 3= NRW, 4= Berlin, 5= Brandenburg 6=Sachsen, 7=  Sachsen-Anhalt 8= Mecklenburg- Vorpommern, 9= Saarland, 10= Rheinland-Pfalz, 11=Hessen 2= Thüringen 13= Niedersachen, 14= Bremen 15= Hamburg, 16= Schleswig-Holstein
 
 
 # EDGE-Attribute
