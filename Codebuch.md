@@ -7,9 +7,14 @@ Two-mode Netzwerk mit den Mitglieder und den dazugehörigen Organisationen der K
 **id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
-**type:** 0= Partei 1= Organisation
+**type:** 
+0= Partei
+1= Organisation
 
-**sex:** 1= weiblich, 2= männlich 3= divers
+**sex:** 
+1= weiblich
+2= männlich 
+3= divers
 
 **age:** 1= 0-29, 2= 30-39, 3= 40-49, 4= 50-59, 5= <60
 
