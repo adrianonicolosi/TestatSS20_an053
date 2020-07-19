@@ -8,19 +8,28 @@ Two-mode Netzwerk mit den Mitglieder und den dazugehörigen Organisationen der K
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 **type:** 
-
 0= Partei
 1= Organisation
 
 **sex:** 
-
 1= weiblich
 2= männlich 
 3= divers
 
-**age:** 1= 0-29, 2= 30-39, 3= 40-49, 4= 50-59, 5= <60
+**age:**
+1= 0-29
+2= 30-39
+3= 40-49
+4= 50-59
+5= <60
 
-**party:** 0= Parteilos  1= SPD, 2= CDU, 3= CSU, 4= FDP, 5= Grünen
+**party:**
+0= Parteilos 
+1= SPD
+2= CDU
+3= CSU
+4= FDP
+5= Grünen
 
 **representation:** 1= Politik, 2= Wirtschaft, 3= Gewerkschaft 4= Umwelt, 5= Regionen 6= Wissenschaft
 
