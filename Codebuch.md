@@ -12,9 +12,9 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 1= Organisation		
 
 **sex:** 
-1= weiblich	
-2= männlich 	
-3= divers	
+1= weiblich														
+2= männlich 												
+3= divers														
 
 **age:**
 1= 0-29		
