@@ -62,6 +62,7 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 15= Hamburg		
 16= Schleswig-Holstein		
 
+**99 definiert fehlende Werte**
 
 # EDGE-Attribute
 
